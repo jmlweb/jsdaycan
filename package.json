@@ -11,6 +11,7 @@
     "build-storybook": "build-storybook -c .storybook -o build.storybook"
   },
   "dependencies": {
+    "color-variations": "^0.0.5",
     "polished": "^2.0.3",
     "ramda": "^0.25.0",
     "react": "^16.4.2",

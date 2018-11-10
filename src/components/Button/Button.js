@@ -14,15 +14,15 @@ const defaultColors = {
 };
 
 const tintedColors = {
-  primary: tint(0.9, primary),
-  danger: tint(0.9, danger),
-  default: tint(0.9, gray),
+  primary: tint(0.3, primary),
+  danger: tint(0.3, danger),
+  default: tint(0.3, gray),
 };
 
 const shadedColors = {
-  primary: shade(0.9, primary),
-  danger: shade(0.9, danger),
-  default: shade(0.9, gray),
+  primary: shade(0.5, primary),
+  danger: shade(0.5, danger),
+  default: shade(0.5, gray),
 };
 
 /**
