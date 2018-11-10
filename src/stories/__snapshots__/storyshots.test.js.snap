@@ -1,38 +1,178 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`Storyshots Components/Button colors 1`] = `
+exports[`Storyshots Components/Box editor 1`] = `
 <div
-  className="sc-bdVaJa ethOL"
+  className="sc-bdVaJa iXZJbM"
 >
   <div
-    className="sc-bZQynM dRNiVE"
+    className="sc-dnqmqq kQXRtO"
   >
     <div
-      className="sc-gzVnrw ghjJoX"
+      className="sc-bwzfXH dctpYa"
+      mb={0}
+      ml={0}
+      mr={0}
+      mt={0}
+      px={4}
+      py={2}
+    >
+      <div
+        className="sc-bwzfXH hSewIx"
+        mb={1}
+      >
+        <strong>
+          py:
+        </strong>
+         
+        2
+      </div>
+      <div
+        className="sc-bwzfXH hSewIx"
+        mb={1}
+      >
+        <strong>
+          px:
+        </strong>
+         
+        4
+      </div>
+      <div
+        className="sc-bwzfXH hSewIx"
+        mb={1}
+      >
+        <strong>
+          mt:
+        </strong>
+         
+        0
+      </div>
+      <div
+        className="sc-bwzfXH hSewIx"
+        mb={1}
+      >
+        <strong>
+          mb:
+        </strong>
+         
+        0
+      </div>
+      <div
+        className="sc-bwzfXH hSewIx"
+        mb={1}
+      >
+        <strong>
+          ml:
+        </strong>
+         
+        0
+      </div>
+      <div
+        className="sc-bwzfXH bEJSwH"
+      >
+        <strong>
+          mr:
+        </strong>
+         
+        0
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots Components/Button colors 1`] = `
+<div
+  className="sc-bdVaJa iXZJbM"
+>
+  <div
+    className="sc-dnqmqq kQXRtO"
+  >
+    <div
+      className="sc-iwsKbI gMYeDe"
     >
       <button
-        className="sc-bwzfXH kaLVyT"
+        bg="mediumGrayLight"
+        className="sc-htpNat gbXMJU sc-bwzfXH ffZdEj"
+        color="white"
+        fontSize={
+          Array [
+            2,
+            3,
+          ]
+        }
         onClick={[Function]}
+        px={
+          Array [
+            4,
+            5,
+          ]
+        }
+        py={
+          Array [
+            2,
+            3,
+          ]
+        }
       >
         Default button
       </button>
        
       <button
-        className="sc-bwzfXH eGXFwu"
+        bg="primaryLight"
+        className="sc-htpNat kmFII sc-bwzfXH esQwCh"
+        color="white"
+        fontSize={
+          Array [
+            2,
+            3,
+          ]
+        }
         onClick={[Function]}
+        px={
+          Array [
+            4,
+            5,
+          ]
+        }
+        py={
+          Array [
+            2,
+            3,
+          ]
+        }
       >
         Primary button
       </button>
        
       <button
-        className="sc-bwzfXH jGxWBf"
+        bg="dangerLight"
+        className="sc-htpNat hbTfxo sc-bwzfXH iaZQRo"
+        color="white"
+        fontSize={
+          Array [
+            2,
+            3,
+          ]
+        }
         onClick={[Function]}
+        px={
+          Array [
+            4,
+            5,
+          ]
+        }
+        py={
+          Array [
+            2,
+            3,
+          ]
+        }
       >
         Danger button
       </button>
        
       <a
-        className="sc-htoDjs bFDClL"
+        className="sc-gZMcBi gUsSVl"
         href="/"
         onClick={[Function]}
       >
@@ -45,17 +185,36 @@ exports[`Storyshots Components/Button colors 1`] = `
 
 exports[`Storyshots Components/Button editor 1`] = `
 <div
-  className="sc-bdVaJa ethOL"
+  className="sc-bdVaJa iXZJbM"
 >
   <div
-    className="sc-bZQynM dRNiVE"
+    className="sc-dnqmqq kQXRtO"
   >
     <div
-      className="sc-gzVnrw ghjJoX"
+      className="sc-iwsKbI gMYeDe"
     >
       <button
-        className="sc-bwzfXH kaLVyT"
-        default={true}
+        bg="primaryLight"
+        className="sc-htpNat kmFII sc-bwzfXH esQwCh"
+        color="white"
+        fontSize={
+          Array [
+            2,
+            3,
+          ]
+        }
+        px={
+          Array [
+            4,
+            5,
+          ]
+        }
+        py={
+          Array [
+            2,
+            3,
+          ]
+        }
       >
         Click me!
       </button>
@@ -66,37 +225,97 @@ exports[`Storyshots Components/Button editor 1`] = `
 
 exports[`Storyshots Components/Button sizes 1`] = `
 <div
-  className="sc-bdVaJa ethOL"
+  className="sc-bdVaJa iXZJbM"
 >
   <div
-    className="sc-bZQynM dRNiVE"
+    className="sc-dnqmqq kQXRtO"
   >
     <div
-      className="sc-gzVnrw ghjJoX"
+      className="sc-iwsKbI gMYeDe"
     >
       <button
-        className="sc-bwzfXH lelkkv"
+        bg="mediumGrayLight"
+        className="sc-htpNat gbXMJU sc-bwzfXH kdNVDp"
+        color="white"
+        fontSize={
+          Array [
+            1,
+            2,
+          ]
+        }
         onClick={[Function]}
+        px={
+          Array [
+            3,
+            4,
+          ]
+        }
+        py={
+          Array [
+            1,
+            2,
+          ]
+        }
       >
         Small button
       </button>
        
       <button
-        className="sc-bwzfXH kaLVyT"
+        bg="mediumGrayLight"
+        className="sc-htpNat gbXMJU sc-bwzfXH ffZdEj"
+        color="white"
+        fontSize={
+          Array [
+            2,
+            3,
+          ]
+        }
         onClick={[Function]}
+        px={
+          Array [
+            4,
+            5,
+          ]
+        }
+        py={
+          Array [
+            2,
+            3,
+          ]
+        }
       >
         Default button
       </button>
        
       <button
-        className="sc-bwzfXH hdqldY"
+        bg="mediumGrayLight"
+        className="sc-htpNat gbXMJU sc-bwzfXH eSfVHq"
+        color="white"
+        fontSize={
+          Array [
+            3,
+            4,
+          ]
+        }
         onClick={[Function]}
+        px={
+          Array [
+            6,
+            7,
+          ]
+        }
+        py={
+          Array [
+            3,
+            4,
+          ]
+        }
       >
         Large button
       </button>
        
       <a
-        className="sc-htoDjs bFDClL"
+        className="sc-gZMcBi gUsSVl"
         href="/"
         onClick={[Function]}
       >
@@ -107,12 +326,279 @@ exports[`Storyshots Components/Button sizes 1`] = `
 </div>
 `;
 
-exports[`Storyshots Guide intro 1`] = `
+exports[`Storyshots Components/Flex editor 1`] = `
 <div
-  className="sc-bdVaJa ethOL"
+  className="sc-bdVaJa iXZJbM"
 >
   <div
-    className="sc-bZQynM dRNiVE"
+    className="sc-dnqmqq kQXRtO"
+  >
+    <div
+      className="sc-ifAKCX eIDkTl sc-bwzfXH joDbQz"
+    >
+      <div
+        className="sc-bwzfXH bhgnTy"
+        p={5}
+        px={3}
+        py={2}
+      >
+        1
+      </div>
+      <div
+        className="sc-bwzfXH OEgUy"
+        p={5}
+        px={12}
+        py={4}
+      >
+        2
+      </div>
+      <div
+        className="sc-bwzfXH hIUhjH"
+        p={5}
+        px={27}
+        py={6}
+      >
+        3
+      </div>
+      <div
+        className="sc-bwzfXH gEkcMC"
+        p={5}
+        px={48}
+        py={0}
+      >
+        4
+      </div>
+      <div
+        className="sc-bwzfXH bYuChT"
+        p={5}
+        px={75}
+        py={2}
+      >
+        5
+      </div>
+      <div
+        className="sc-bwzfXH duGxuC"
+        p={5}
+        px={108}
+        py={4}
+      >
+        6
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots Components/Text editor 1`] = `
+<div
+  className="sc-bdVaJa iXZJbM"
+>
+  <div
+    className="sc-dnqmqq kQXRtO"
+  >
+    <span
+      className="sc-EHOje iKpQYH"
+    >
+      Welcome to JSDayCan!
+    </span>
+  </div>
+</div>
+`;
+
+exports[`Storyshots Guide breakpoints 1`] = `
+<div
+  className="sc-bdVaJa iXZJbM"
+>
+  <div
+    className="sc-dnqmqq kQXRtO"
+  >
+    <div>
+      <h1>
+        Current breakpoints
+      </h1>
+      <div
+        className="sc-gqjmRU dDgESf"
+        style={
+          Object {
+            "width": "40em",
+          }
+        }
+      >
+        40em
+      </div>
+      <div
+        className="sc-gqjmRU dDgESf"
+        style={
+          Object {
+            "width": "64em",
+          }
+        }
+      >
+        64em
+      </div>
+      <div
+        className="sc-gqjmRU dDgESf"
+        style={
+          Object {
+            "width": "77.5em",
+          }
+        }
+      >
+        77.5em
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots Guide default styles 1`] = `
+<div
+  className="sc-bdVaJa iXZJbM"
+>
+  <div
+    className="sc-dnqmqq kQXRtO"
+  >
+    <div>
+      <h1>
+        Dolorem quisquam nihil consequatur voluptatum quibusdam quia voluptatum natus.
+      </h1>
+      <p>
+        Odit placeat deserunt tempore voluptas. Ex adipisci tempore. Consectetur quod et omnis quo. Nihil minima ut harum et culpa commodi fuga.
+         
+        Numquam perspiciatis omnis voluptatem. Quo dolorem repudiandae debitis rerum perferendis ut. Quo repellendus laudantium. Quam quaerat dolores voluptatem.
+      </p>
+      <p>
+        Ex qui neque suscipit dolorum aut et sapiente. Sint iusto et placeat perspiciatis. Tempore expedita et culpa.
+         
+        Ut aut et odit amet dolores alias aperiam. Possimus voluptatibus ut quibusdam.
+      </p>
+      <h2>
+        Quam corrupti sit.
+      </h2>
+      <p>
+        Amet corrupti in sunt aut. Dolor et sunt consequatur aut optio ex aliquam. Qui cum nesciunt veritatis velit repellat dicta eos ut est. Dolorem nulla ipsam quo tempora. Molestiae veritatis sint adipisci vel id minus culpa. Temporibus laboriosam et quia provident odio corrupti qui et nihil.
+         
+        Dolores ullam ut voluptas soluta rerum quas ad provident sunt. Qui dolorum dolores quis. Facere aut aut repellendus blanditiis ex. Itaque dolores ad hic ipsa ea debitis sit. Quas voluptas dolores modi ea.
+         
+        Molestias voluptatum ut quisquam voluptas ut. Necessitatibus odit eos ut. Eos illum ad odio vitae quisquam molestiae ut. Quis sequi et possimus ratione totam deserunt doloribus accusamus atque. Architecto perspiciatis corporis temporibus sed id saepe corrupti.
+      </p>
+      <h3>
+        Ea quia officiis dolorum voluptate autem vero accusamus voluptatum.
+      </h3>
+      <ul>
+        <li>
+          Sit ipsa omnis dicta harum vero omnis repellat.
+        </li>
+        <li>
+          Ducimus qui earum voluptatem.
+        </li>
+        <li>
+          Dolore voluptas eos aliquid reprehenderit dolorum dolores.
+        </li>
+        <ul>
+          <li>
+            Suscipit et sit ea culpa maiores et tenetur saepe.
+          </li>
+          <li>
+            Et eligendi voluptas repudiandae est eum explicabo occaecati et.
+          </li>
+          <li>
+            Accusantium quia reiciendis fugiat modi perspiciatis.
+          </li>
+          <li>
+            Sed nam rerum debitis.
+          </li>
+          <li>
+            Natus possimus esse dolorem explicabo.
+          </li>
+          <li>
+            Sit officiis molestias sit ipsum quia laudantium ut ut.
+          </li>
+        </ul>
+        <li>
+          Ratione saepe in enim voluptas placeat cupiditate quod.
+        </li>
+        <li>
+          Ipsam ut provident aut et.
+        </li>
+      </ul>
+      <h4>
+        Quo nam exercitationem omnis.
+      </h4>
+      <ol>
+        <li>
+          Sed quidem eum cumque enim est nam nihil qui ea.
+        </li>
+        <li>
+          Quos sint temporibus perferendis culpa quia.
+        </li>
+        <ol>
+          <li>
+            Et itaque voluptatum accusantium possimus perferendis at harum error.
+          </li>
+          <li>
+            Vel corporis ut voluptatem non velit voluptatum dolor itaque necessitatibus.
+          </li>
+          <li>
+            Corrupti sed praesentium voluptate non fuga.
+          </li>
+          <li>
+            Veniam amet non et.
+          </li>
+          <li>
+            Aut laudantium iste non aperiam aut a.
+          </li>
+          <li>
+            Enim provident dolorem sit distinctio.
+          </li>
+        </ol>
+        <li>
+          Aut quia assumenda cum dolores voluptates eos.
+        </li>
+        <li>
+          Possimus omnis ipsum quas magnam similique error mollitia alias quae.
+        </li>
+        <li>
+          Aut error quae rerum alias beatae voluptatum.
+        </li>
+        <li>
+          Rerum eius sapiente sed maiores tenetur.
+        </li>
+      </ol>
+      <h5>
+        Et alias iste et odit.
+      </h5>
+      <dl>
+        <dt>
+          Assumenda sequi vero ut molestias temporibus.
+        </dt>
+        <dd>
+          Unde consectetur velit non.
+        </dd>
+        <dt>
+          Velit impedit reiciendis eos veniam explicabo commodi deserunt et autem.
+        </dt>
+        <dd>
+          Doloribus sunt beatae commodi porro dolore.
+        </dd>
+        <dt>
+          At quam possimus sint rerum numquam aut quaerat maxime.
+        </dt>
+        <dd>
+          Impedit quisquam necessitatibus rem reiciendis sit impedit.
+        </dd>
+      </dl>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots Guide intro 1`] = `
+<div
+  className="sc-bdVaJa iXZJbM"
+>
+  <div
+    className="sc-dnqmqq kQXRtO"
   >
     <div
       dangerouslySetInnerHTML={
