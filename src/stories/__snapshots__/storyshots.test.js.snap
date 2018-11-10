@@ -1,38 +1,178 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`Storyshots Components/Button colors 1`] = `
+exports[`Storyshots Components/Box editor 1`] = `
 <div
-  className="sc-bdVaJa ethOL"
+  className="sc-bdVaJa iXZJbM"
 >
   <div
-    className="sc-bZQynM dRNiVE"
+    className="sc-dnqmqq kQXRtO"
   >
     <div
-      className="sc-gzVnrw ghjJoX"
+      className="sc-bwzfXH dctpYa"
+      mb={0}
+      ml={0}
+      mr={0}
+      mt={0}
+      px={4}
+      py={2}
+    >
+      <div
+        className="sc-bwzfXH hSewIx"
+        mb={1}
+      >
+        <strong>
+          py:
+        </strong>
+         
+        2
+      </div>
+      <div
+        className="sc-bwzfXH hSewIx"
+        mb={1}
+      >
+        <strong>
+          px:
+        </strong>
+         
+        4
+      </div>
+      <div
+        className="sc-bwzfXH hSewIx"
+        mb={1}
+      >
+        <strong>
+          mt:
+        </strong>
+         
+        0
+      </div>
+      <div
+        className="sc-bwzfXH hSewIx"
+        mb={1}
+      >
+        <strong>
+          mb:
+        </strong>
+         
+        0
+      </div>
+      <div
+        className="sc-bwzfXH hSewIx"
+        mb={1}
+      >
+        <strong>
+          ml:
+        </strong>
+         
+        0
+      </div>
+      <div
+        className="sc-bwzfXH bEJSwH"
+      >
+        <strong>
+          mr:
+        </strong>
+         
+        0
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots Components/Button colors 1`] = `
+<div
+  className="sc-bdVaJa iXZJbM"
+>
+  <div
+    className="sc-dnqmqq kQXRtO"
+  >
+    <div
+      className="sc-iwsKbI gMYeDe"
     >
       <button
-        className="sc-bwzfXH kaLVyT"
+        bg="mediumGrayLight"
+        className="sc-htpNat gbXMJU sc-bwzfXH ffZdEj"
+        color="white"
+        fontSize={
+          Array [
+            2,
+            3,
+          ]
+        }
         onClick={[Function]}
+        px={
+          Array [
+            4,
+            5,
+          ]
+        }
+        py={
+          Array [
+            2,
+            3,
+          ]
+        }
       >
         Default button
       </button>
        
       <button
-        className="sc-bwzfXH eGXFwu"
+        bg="primaryLight"
+        className="sc-htpNat kmFII sc-bwzfXH esQwCh"
+        color="white"
+        fontSize={
+          Array [
+            2,
+            3,
+          ]
+        }
         onClick={[Function]}
+        px={
+          Array [
+            4,
+            5,
+          ]
+        }
+        py={
+          Array [
+            2,
+            3,
+          ]
+        }
       >
         Primary button
       </button>
        
       <button
-        className="sc-bwzfXH jGxWBf"
+        bg="dangerLight"
+        className="sc-htpNat hbTfxo sc-bwzfXH iaZQRo"
+        color="white"
+        fontSize={
+          Array [
+            2,
+            3,
+          ]
+        }
         onClick={[Function]}
+        px={
+          Array [
+            4,
+            5,
+          ]
+        }
+        py={
+          Array [
+            2,
+            3,
+          ]
+        }
       >
         Danger button
       </button>
        
       <a
-        className="sc-htoDjs bFDClL"
+        className="sc-gZMcBi gUsSVl"
         href="/"
         onClick={[Function]}
       >
@@ -45,17 +185,36 @@ exports[`Storyshots Components/Button colors 1`] = `
 
 exports[`Storyshots Components/Button editor 1`] = `
 <div
-  className="sc-bdVaJa ethOL"
+  className="sc-bdVaJa iXZJbM"
 >
   <div
-    className="sc-bZQynM dRNiVE"
+    className="sc-dnqmqq kQXRtO"
   >
     <div
-      className="sc-gzVnrw ghjJoX"
+      className="sc-iwsKbI gMYeDe"
     >
       <button
-        className="sc-bwzfXH kaLVyT"
-        default={true}
+        bg="primaryLight"
+        className="sc-htpNat kmFII sc-bwzfXH esQwCh"
+        color="white"
+        fontSize={
+          Array [
+            2,
+            3,
+          ]
+        }
+        px={
+          Array [
+            4,
+            5,
+          ]
+        }
+        py={
+          Array [
+            2,
+            3,
+          ]
+        }
       >
         Click me!
       </button>
@@ -66,37 +225,97 @@ exports[`Storyshots Components/Button editor 1`] = `
 
 exports[`Storyshots Components/Button sizes 1`] = `
 <div
-  className="sc-bdVaJa ethOL"
+  className="sc-bdVaJa iXZJbM"
 >
   <div
-    className="sc-bZQynM dRNiVE"
+    className="sc-dnqmqq kQXRtO"
   >
     <div
-      className="sc-gzVnrw ghjJoX"
+      className="sc-iwsKbI gMYeDe"
     >
       <button
-        className="sc-bwzfXH lelkkv"
+        bg="mediumGrayLight"
+        className="sc-htpNat gbXMJU sc-bwzfXH kdNVDp"
+        color="white"
+        fontSize={
+          Array [
+            1,
+            2,
+          ]
+        }
         onClick={[Function]}
+        px={
+          Array [
+            3,
+            4,
+          ]
+        }
+        py={
+          Array [
+            1,
+            2,
+          ]
+        }
       >
         Small button
       </button>
        
       <button
-        className="sc-bwzfXH kaLVyT"
+        bg="mediumGrayLight"
+        className="sc-htpNat gbXMJU sc-bwzfXH ffZdEj"
+        color="white"
+        fontSize={
+          Array [
+            2,
+            3,
+          ]
+        }
         onClick={[Function]}
+        px={
+          Array [
+            4,
+            5,
+          ]
+        }
+        py={
+          Array [
+            2,
+            3,
+          ]
+        }
       >
         Default button
       </button>
        
       <button
-        className="sc-bwzfXH hdqldY"
+        bg="mediumGrayLight"
+        className="sc-htpNat gbXMJU sc-bwzfXH eSfVHq"
+        color="white"
+        fontSize={
+          Array [
+            3,
+            4,
+          ]
+        }
         onClick={[Function]}
+        px={
+          Array [
+            6,
+            7,
+          ]
+        }
+        py={
+          Array [
+            3,
+            4,
+          ]
+        }
       >
         Large button
       </button>
        
       <a
-        className="sc-htoDjs bFDClL"
+        className="sc-gZMcBi gUsSVl"
         href="/"
         onClick={[Function]}
       >
@@ -107,12 +326,279 @@ exports[`Storyshots Components/Button sizes 1`] = `
 </div>
 `;
 
-exports[`Storyshots Guide intro 1`] = `
+exports[`Storyshots Components/Flex editor 1`] = `
 <div
-  className="sc-bdVaJa ethOL"
+  className="sc-bdVaJa iXZJbM"
 >
   <div
-    className="sc-bZQynM dRNiVE"
+    className="sc-dnqmqq kQXRtO"
+  >
+    <div
+      className="sc-ifAKCX eIDkTl sc-bwzfXH joDbQz"
+    >
+      <div
+        className="sc-bwzfXH bhgnTy"
+        p={5}
+        px={3}
+        py={2}
+      >
+        1
+      </div>
+      <div
+        className="sc-bwzfXH OEgUy"
+        p={5}
+        px={12}
+        py={4}
+      >
+        2
+      </div>
+      <div
+        className="sc-bwzfXH hIUhjH"
+        p={5}
+        px={27}
+        py={6}
+      >
+        3
+      </div>
+      <div
+        className="sc-bwzfXH gEkcMC"
+        p={5}
+        px={48}
+        py={0}
+      >
+        4
+      </div>
+      <div
+        className="sc-bwzfXH bYuChT"
+        p={5}
+        px={75}
+        py={2}
+      >
+        5
+      </div>
+      <div
+        className="sc-bwzfXH duGxuC"
+        p={5}
+        px={108}
+        py={4}
+      >
+        6
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots Components/Text editor 1`] = `
+<div
+  className="sc-bdVaJa iXZJbM"
+>
+  <div
+    className="sc-dnqmqq kQXRtO"
+  >
+    <span
+      className="sc-EHOje iKpQYH"
+    >
+      Welcome to JSDayCan!
+    </span>
+  </div>
+</div>
+`;
+
+exports[`Storyshots Guide breakpoints 1`] = `
+<div
+  className="sc-bdVaJa iXZJbM"
+>
+  <div
+    className="sc-dnqmqq kQXRtO"
+  >
+    <div>
+      <h1>
+        Current breakpoints
+      </h1>
+      <div
+        className="sc-gqjmRU dDgESf"
+        style={
+          Object {
+            "width": "40em",
+          }
+        }
+      >
+        40em
+      </div>
+      <div
+        className="sc-gqjmRU dDgESf"
+        style={
+          Object {
+            "width": "64em",
+          }
+        }
+      >
+        64em
+      </div>
+      <div
+        className="sc-gqjmRU dDgESf"
+        style={
+          Object {
+            "width": "77.5em",
+          }
+        }
+      >
+        77.5em
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots Guide default styles 1`] = `
+<div
+  className="sc-bdVaJa iXZJbM"
+>
+  <div
+    className="sc-dnqmqq kQXRtO"
+  >
+    <div>
+      <h1>
+        Lorem
+      </h1>
+      <p>
+        Lorem Ipsum
+         
+        Lorem Ipsum
+      </p>
+      <p>
+        Lorem Ipsum
+         
+        Lorem Ipsum
+      </p>
+      <h2>
+        Lorem
+      </h2>
+      <p>
+        Lorem Ipsum
+         
+        Lorem Ipsum
+         
+        Lorem Ipsum
+      </p>
+      <h3>
+        Lorem
+      </h3>
+      <ul>
+        <li>
+          Lorem
+        </li>
+        <li>
+          Lorem
+        </li>
+        <li>
+          Lorem
+        </li>
+        <ul>
+          <li>
+            Lorem
+          </li>
+          <li>
+            Lorem
+          </li>
+          <li>
+            Lorem
+          </li>
+          <li>
+            Lorem
+          </li>
+          <li>
+            Lorem
+          </li>
+          <li>
+            Lorem
+          </li>
+        </ul>
+        <li>
+          Lorem
+        </li>
+        <li>
+          Lorem
+        </li>
+      </ul>
+      <h4>
+        Lorem
+      </h4>
+      <ol>
+        <li>
+          Lorem
+        </li>
+        <li>
+          Lorem
+        </li>
+        <ol>
+          <li>
+            Lorem
+          </li>
+          <li>
+            Lorem
+          </li>
+          <li>
+            Lorem
+          </li>
+          <li>
+            Lorem
+          </li>
+          <li>
+            Lorem
+          </li>
+          <li>
+            Lorem
+          </li>
+        </ol>
+        <li>
+          Lorem
+        </li>
+        <li>
+          Lorem
+        </li>
+        <li>
+          Lorem
+        </li>
+        <li>
+          Lorem
+        </li>
+      </ol>
+      <h5>
+        Lorem
+      </h5>
+      <dl>
+        <dt>
+          Lorem
+        </dt>
+        <dd>
+          Lorem
+        </dd>
+        <dt>
+          Lorem
+        </dt>
+        <dd>
+          Lorem
+        </dd>
+        <dt>
+          Lorem
+        </dt>
+        <dd>
+          Lorem
+        </dd>
+      </dl>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots Guide intro 1`] = `
+<div
+  className="sc-bdVaJa iXZJbM"
+>
+  <div
+    className="sc-dnqmqq kQXRtO"
   >
     <div
       dangerouslySetInnerHTML={
