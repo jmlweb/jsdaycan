@@ -2905,6 +2905,14 @@ color-string@^0.3.0:
   dependencies:
     color-name "^1.0.0"
 
+color-variations@^0.0.5:
+  version "0.0.5"
+  resolved "https://registry.yarnpkg.com/color-variations/-/color-variations-0.0.5.tgz#d5a9292ef4f440eae4f7f09ff464088f65aeef26"
+  integrity sha512-VrigRaGIvkcZS4rwkVgSlabELcsWTghsOk5vRA2BUkj7neeLbwD2Pj+yoydpNTqXPKriOTNm898EEIIFOccMnQ==
+  dependencies:
+    polished "^2.3.0"
+    ramda "^0.25.0"
+
 color@^0.11.0:
   version "0.11.4"
   resolved "https://registry.yarnpkg.com/color/-/color-0.11.4.tgz#6d7b5c74fb65e841cd48792ad1ed5e07b904d764"
@@ -8066,7 +8074,7 @@ pluralize@^7.0.0:
   resolved "https://registry.yarnpkg.com/pluralize/-/pluralize-7.0.0.tgz#298b89df8b93b0221dbf421ad2b1b1ea23fc6777"
   integrity sha512-ARhBOdzS3e41FbkW/XWrTEtukqqLoK5+Z/4UeDaLuSW+39JPeFgs4gCGqsrJHVZX0fUrx//4OF0K1CUGwlIFow==
 
-polished@^2.0.3:
+polished@^2.0.3, polished@^2.3.0:
   version "2.3.0"
   resolved "https://registry.yarnpkg.com/polished/-/polished-2.3.0.tgz#66c8b66bc666e95d9d12d760dac9df758aed8f8e"
   integrity sha512-G2yD9LhJy5HBuU+Im5qe70ubaJI/ZTTOIJO6GRMwJ2WSoAiPzlm8+LjAXMnm9/K0E0NumRVHvQu2HHPKQSYQjw==
