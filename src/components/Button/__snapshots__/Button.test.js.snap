@@ -1,0 +1,60 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Button styles 1`] = `
+.c1 {
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  color: #fff;
+  background-color: #45d2ae;
+  font-size: 16px;
+  border-color: #31CEA6;
+}
+
+.c0:hover {
+  background-color: #31CEA6;
+  border-color: #31CEA6;
+}
+
+@media screen and (min-width:40em) {
+  .c1 {
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+  }
+}
+
+@media screen and (min-width:40em) {
+  .c1 {
+    font-size: 18px;
+  }
+}
+
+<button
+  bg="primaryLight"
+  className="c0 c1"
+  color="white"
+  fontSize={
+    Array [
+      2,
+      3,
+    ]
+  }
+  px={
+    Array [
+      4,
+      5,
+    ]
+  }
+  py={
+    Array [
+      2,
+      3,
+    ]
+  }
+>
+  CHILD
+</button>
+`;

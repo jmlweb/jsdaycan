@@ -1,5 +1,8 @@
 module.exports = {
   root: true,
+  env: {
+    jest: true,
+  },
   globals: {
     document: true,
   },
