@@ -10,7 +10,7 @@ storiesOf('Components/Text', module)
   .addDecorator(MainWrapper)
   .addDecorator(withKnobs)
   .add('editor', () => {
-    const children = text('Children', 'Welcome to React Alicante!');
+    const children = text('Children', 'Welcome to JSDayCan!');
     const isOptions = optionsFromArr([
       'span',
       'p',
